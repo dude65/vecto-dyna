@@ -1,0 +1,10 @@
+** Prerequisities **
+
+- cmake version 3.5 or higher
+- sdl version 2
+- sdl_image version 2
+
+** Compile **
+
+- run command 'cmake CMakeLists.txt'
+- run command 'make'
